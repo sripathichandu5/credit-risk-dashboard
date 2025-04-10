@@ -1,0 +1,17 @@
+# Power BI auto backup files
+*.pbix~*
+
+# Power BI Temp files
+*.tmp
+
+# System-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings (optional)
+.vscode/
+
+# Log folders or junk
+.logs/
+

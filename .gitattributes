@@ -1,0 +1,15 @@
+
+# Treat PBIX files as binary
+*.pbix binary
+
+# CSV files - treat as text for diff
+*.csv text
+
+# JSON files - treat as text for diff
+*.json text
+
+# Markdown files
+*.md text
+
+# Ensure consistent end-of-line handling
+* text=auto
