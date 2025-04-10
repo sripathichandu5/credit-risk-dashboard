@@ -58,7 +58,7 @@ Credit-Risk-Insights-Dashboard/
 
 **Sripathi Chandu**\
 MBA in Finance | Aspiring Data Analyst\
-[[www.linkedin.com/in/sripathichandu](http://www.linkedin.com/in/sripathichandu) | www\.github.com/sripathichandu5
+(http://www.linkedin.com/in/sripathichandu) | www.github.com/sripathichandu5
 
 
 
